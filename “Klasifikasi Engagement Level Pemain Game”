@@ -1,0 +1,25 @@
+FINAL PROJECT
+“Klasifikasi Engagement Level Pemain Game”
+
+
+Ini adalah proyek final untuk mata kuliah Big Data di Universitas Amikom Yogyakarta.
+Proyek ini berfokus pada Dalam proyek ini, dilakukan analisis terhadap kumpulan data yang berisi informasi perilaku
+gamer untuk mengidentifikasi hubungan antara variabel dan membangun model prediktif
+mengenai tingkat keterlibatan pemain. Dengan demikian, diharapkan hasil analisis ini dapat
+memberikan pandangan bagi pengembang game dalam membuat keputusan yang lebih akuratdan berdasarkan data.
+
+1. Laporan & Presentasi
+
+Laporan lengkap dapat dilihat di file [Laporan_FP_BigData_Kelompok_5.pdf](Laporan_FP_BigData_Kelompok_5.pdf).
+
+2. Notebook Analisis
+
+Analisis data, pembersihan, pemodelan, dan visualisasi lengkap ada di dalam file [Uas_BDAP.ipynb](Uas_BDAP.ipynb).
+
+3. Teknologi yang Digunakan
+
+* Bahasa Pemrograman: Python
+* Library Analisis: Pandas, NumPy, Scikit-learn
+* Framework Big Data: Apache Spark (PySpark)
+* Visualisasi: Matplotlib, Seaborn
+* Lainnya: Jupyter Notebook
